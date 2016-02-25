@@ -10,6 +10,7 @@ namespace NieuwProject
     {
         static void Main(string[] args)
         {
+            //tekst
         }
     }
 }
